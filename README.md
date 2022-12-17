@@ -1,2 +1,2 @@
-# SQL
-Practices and homeworks for Patika.dev SQL course
+# [Patika.dev hesabım](https://app.patika.dev/berkayzaim)
+
